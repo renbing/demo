@@ -1,0 +1,1114 @@
+<asset>
+  <frame id="1">
+    <mc index="0" id="instance266948" type="[object Shape]" x="23" y="65" totalFrames="1" framesInfo="[[0,4]]"/>
+    <mc index="1" id="QQ_openDiamond_1" type="[object MovieClip]" x="34" y="337" totalFrames="1" framesInfo="null">
+      <frame id="1">
+        <mc index="0" id="instance266949" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+        <mc index="1" id="instance266950" type="[object StaticText]" x="177" y="-1" totalFrames="1" framesInfo="[[1,0]]"/>
+        <mc index="2" id="instance266951" type="[object MovieClip]" x="278" y="-5" totalFrames="1" framesInfo="[[-1,-1]]"/>
+      </frame>
+    </mc>
+    <mc index="2" id="item1" type="[object MovieClip]" x="35" y="84" totalFrames="1" framesInfo="null">
+      <frame id="1">
+        <mc index="0" id="bg" type="[object MovieClip]" x="2" y="7" totalFrames="4" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance266953" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,-8]]"/>
+          </frame>
+          <frame id="2">
+            <mc index="0" id="instance267099" type="[object MovieClip]" x="0" y="-6" totalFrames="1" framesInfo="[[0,-2]]"/>
+          </frame>
+          <frame id="3">
+            <mc index="0" id="instance267101" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,-8]]"/>
+          </frame>
+          <frame id="4">
+            <mc index="0" id="instance267103" type="[object MovieClip]" x="0" y="-6" totalFrames="1" framesInfo="[[0,-2]]"/>
+          </frame>
+        </mc>
+        <mc index="1" id="photo" type="[object MovieClip]" x="13" y="21" totalFrames="1" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance266955" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+          </frame>
+        </mc>
+        <mc index="2" id="nameText" type="[object TextField]" x="0" y="77" totalFrames="1" framesInfo="[]"/>
+        <mc index="3" id="cashText" type="[object TextField]" x="35" y="98" totalFrames="1" framesInfo="[]"/>
+        <mc index="4" id="numberText" type="[object TextField]" x="48" y="2" totalFrames="1" framesInfo="[]"/>
+        <mc index="5" id="cashIcon" type="[object MovieClip]" x="9" y="96" totalFrames="1" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance266956" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+          </frame>
+        </mc>
+        <mc index="6" id="super_star" type="[object MovieClip]" x="5" y="8" totalFrames="9" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance266957" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266958" type="[object MorphShape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266959" type="[object MovieClip]" x="8" y="9" totalFrames="5" framesInfo="[[-10,-15],[-10,-15],[-10,-15],[-10,-15],[-10,-14]]"/>
+          </frame>
+          <frame id="2">
+            <mc index="0" id="instance266957" type="[object Shape]" x="0" y="-1" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266958" type="[object MorphShape]" x="0" y="-1" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266959" type="[object MovieClip]" x="8" y="9" totalFrames="5" framesInfo="[[-11,-16],[-11,-16],[-11,-16],[-11,-16],[-11,-16]]"/>
+          </frame>
+          <frame id="3">
+            <mc index="0" id="instance266957" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266958" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266959" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-18],[-11,-18],[-11,-18],[-11,-18],[-11,-18]]"/>
+          </frame>
+          <frame id="4">
+            <mc index="0" id="instance266957" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266958" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266959" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-19],[-11,-19],[-11,-19],[-11,-19],[-11,-19]]"/>
+          </frame>
+          <frame id="5">
+            <mc index="0" id="instance266957" type="[object Shape]" x="2" y="-3" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266958" type="[object MorphShape]" x="2" y="-3" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266959" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-21],[-11,-21],[-11,-21],[-11,-21],[-11,-21]]"/>
+          </frame>
+          <frame id="6">
+            <mc index="0" id="instance266957" type="[object Shape]" x="1" y="-3" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266958" type="[object MorphShape]" x="1" y="-3" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266959" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-23],[-11,-23],[-11,-23],[-11,-23],[-11,-23]]"/>
+          </frame>
+          <frame id="7">
+            <mc index="0" id="instance266957" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266958" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266959" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-25],[-11,-25],[-11,-25],[-11,-25],[-11,-25]]"/>
+          </frame>
+          <frame id="8">
+            <mc index="0" id="instance266957" type="[object Shape]" x="0" y="-1" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266958" type="[object MorphShape]" x="0" y="-1" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266959" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-27],[-11,-27],[-11,-27],[-11,-27],[-11,-27]]"/>
+          </frame>
+          <frame id="9">
+            <mc index="0" id="instance266957" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266958" type="[object MorphShape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266959" type="[object MovieClip]" x="10" y="9" totalFrames="5" framesInfo="[[-11,-29],[-11,-29],[-11,-29],[-11,-29],[-11,-29]]"/>
+          </frame>
+        </mc>
+      </frame>
+    </mc>
+    <mc index="3" id="closeIcon" type="[object MovieClip]" x="587" y="-8" totalFrames="4" framesInfo="null">
+      <frame id="1">
+        <mc index="0" id="instance266961" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+      </frame>
+      <frame id="2">
+        <mc index="0" id="instance266961" type="[object MovieClip]" x="-2" y="-1" totalFrames="1" framesInfo="[[0,0]]"/>
+      </frame>
+      <frame id="3">
+        <mc index="0" id="instance266961" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+      </frame>
+      <frame id="4">
+        <mc index="0" id="instance267114" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+      </frame>
+    </mc>
+    <mc index="4" id="item2" type="[object MovieClip]" x="129" y="84" totalFrames="1" framesInfo="null">
+      <frame id="1">
+        <mc index="0" id="bg" type="[object MovieClip]" x="2" y="7" totalFrames="4" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance266963" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,-8]]"/>
+          </frame>
+          <frame id="2">
+            <mc index="0" id="instance267116" type="[object MovieClip]" x="0" y="-6" totalFrames="1" framesInfo="[[0,-2]]"/>
+          </frame>
+          <frame id="3">
+            <mc index="0" id="instance267118" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,-8]]"/>
+          </frame>
+          <frame id="4">
+            <mc index="0" id="instance267120" type="[object MovieClip]" x="0" y="-6" totalFrames="1" framesInfo="[[0,-2]]"/>
+          </frame>
+        </mc>
+        <mc index="1" id="photo" type="[object MovieClip]" x="13" y="21" totalFrames="1" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance266965" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+          </frame>
+        </mc>
+        <mc index="2" id="nameText" type="[object TextField]" x="0" y="77" totalFrames="1" framesInfo="[]"/>
+        <mc index="3" id="cashText" type="[object TextField]" x="35" y="98" totalFrames="1" framesInfo="[]"/>
+        <mc index="4" id="numberText" type="[object TextField]" x="48" y="2" totalFrames="1" framesInfo="[]"/>
+        <mc index="5" id="cashIcon" type="[object MovieClip]" x="9" y="96" totalFrames="1" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance266966" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+          </frame>
+        </mc>
+        <mc index="6" id="super_star" type="[object MovieClip]" x="5" y="8" totalFrames="9" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance266967" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266968" type="[object MorphShape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266969" type="[object MovieClip]" x="8" y="9" totalFrames="5" framesInfo="[[-10,-15],[-10,-15],[-10,-15],[-10,-15],[-10,-14]]"/>
+          </frame>
+          <frame id="2">
+            <mc index="0" id="instance266967" type="[object Shape]" x="0" y="-1" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266968" type="[object MorphShape]" x="0" y="-1" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266969" type="[object MovieClip]" x="8" y="9" totalFrames="5" framesInfo="[[-11,-16],[-11,-16],[-11,-16],[-11,-16],[-11,-16]]"/>
+          </frame>
+          <frame id="3">
+            <mc index="0" id="instance266967" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266968" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266969" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-18],[-11,-18],[-11,-18],[-11,-18],[-11,-18]]"/>
+          </frame>
+          <frame id="4">
+            <mc index="0" id="instance266967" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266968" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266969" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-19],[-11,-19],[-11,-19],[-11,-19],[-11,-19]]"/>
+          </frame>
+          <frame id="5">
+            <mc index="0" id="instance266967" type="[object Shape]" x="2" y="-3" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266968" type="[object MorphShape]" x="2" y="-3" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266969" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-21],[-11,-21],[-11,-21],[-11,-21],[-11,-21]]"/>
+          </frame>
+          <frame id="6">
+            <mc index="0" id="instance266967" type="[object Shape]" x="1" y="-3" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266968" type="[object MorphShape]" x="1" y="-3" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266969" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-23],[-11,-23],[-11,-23],[-11,-23],[-11,-23]]"/>
+          </frame>
+          <frame id="7">
+            <mc index="0" id="instance266967" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266968" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266969" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-25],[-11,-25],[-11,-25],[-11,-25],[-11,-25]]"/>
+          </frame>
+          <frame id="8">
+            <mc index="0" id="instance266967" type="[object Shape]" x="0" y="-1" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266968" type="[object MorphShape]" x="0" y="-1" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266969" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-27],[-11,-27],[-11,-27],[-11,-27],[-11,-27]]"/>
+          </frame>
+          <frame id="9">
+            <mc index="0" id="instance266967" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266968" type="[object MorphShape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266969" type="[object MovieClip]" x="10" y="9" totalFrames="5" framesInfo="[[-11,-29],[-11,-29],[-11,-29],[-11,-29],[-11,-29]]"/>
+          </frame>
+        </mc>
+      </frame>
+    </mc>
+    <mc index="5" id="item3" type="[object MovieClip]" x="223" y="84" totalFrames="1" framesInfo="null">
+      <frame id="1">
+        <mc index="0" id="bg" type="[object MovieClip]" x="2" y="7" totalFrames="4" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance266971" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,-8]]"/>
+          </frame>
+          <frame id="2">
+            <mc index="0" id="instance267131" type="[object MovieClip]" x="0" y="-6" totalFrames="1" framesInfo="[[0,-2]]"/>
+          </frame>
+          <frame id="3">
+            <mc index="0" id="instance267133" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,-8]]"/>
+          </frame>
+          <frame id="4">
+            <mc index="0" id="instance267135" type="[object MovieClip]" x="0" y="-6" totalFrames="1" framesInfo="[[0,-2]]"/>
+          </frame>
+        </mc>
+        <mc index="1" id="photo" type="[object MovieClip]" x="13" y="21" totalFrames="1" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance266973" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+          </frame>
+        </mc>
+        <mc index="2" id="nameText" type="[object TextField]" x="0" y="77" totalFrames="1" framesInfo="[]"/>
+        <mc index="3" id="cashText" type="[object TextField]" x="35" y="98" totalFrames="1" framesInfo="[]"/>
+        <mc index="4" id="numberText" type="[object TextField]" x="48" y="2" totalFrames="1" framesInfo="[]"/>
+        <mc index="5" id="cashIcon" type="[object MovieClip]" x="9" y="96" totalFrames="1" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance266974" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+          </frame>
+        </mc>
+        <mc index="6" id="super_star" type="[object MovieClip]" x="5" y="8" totalFrames="9" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance266975" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266976" type="[object MorphShape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266977" type="[object MovieClip]" x="8" y="9" totalFrames="5" framesInfo="[[-10,-15],[-10,-15],[-10,-15],[-10,-15],[-10,-14]]"/>
+          </frame>
+          <frame id="2">
+            <mc index="0" id="instance266975" type="[object Shape]" x="0" y="-1" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266976" type="[object MorphShape]" x="0" y="-1" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266977" type="[object MovieClip]" x="8" y="9" totalFrames="5" framesInfo="[[-11,-16],[-11,-16],[-11,-16],[-11,-16],[-11,-16]]"/>
+          </frame>
+          <frame id="3">
+            <mc index="0" id="instance266975" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266976" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266977" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-18],[-11,-18],[-11,-18],[-11,-18],[-11,-18]]"/>
+          </frame>
+          <frame id="4">
+            <mc index="0" id="instance266975" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266976" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266977" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-19],[-11,-19],[-11,-19],[-11,-19],[-11,-19]]"/>
+          </frame>
+          <frame id="5">
+            <mc index="0" id="instance266975" type="[object Shape]" x="2" y="-3" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266976" type="[object MorphShape]" x="2" y="-3" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266977" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-21],[-11,-21],[-11,-21],[-11,-21],[-11,-21]]"/>
+          </frame>
+          <frame id="6">
+            <mc index="0" id="instance266975" type="[object Shape]" x="1" y="-3" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266976" type="[object MorphShape]" x="1" y="-3" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266977" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-23],[-11,-23],[-11,-23],[-11,-23],[-11,-23]]"/>
+          </frame>
+          <frame id="7">
+            <mc index="0" id="instance266975" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266976" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266977" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-25],[-11,-25],[-11,-25],[-11,-25],[-11,-25]]"/>
+          </frame>
+          <frame id="8">
+            <mc index="0" id="instance266975" type="[object Shape]" x="0" y="-1" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266976" type="[object MorphShape]" x="0" y="-1" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266977" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-27],[-11,-27],[-11,-27],[-11,-27],[-11,-27]]"/>
+          </frame>
+          <frame id="9">
+            <mc index="0" id="instance266975" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266976" type="[object MorphShape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266977" type="[object MovieClip]" x="10" y="9" totalFrames="5" framesInfo="[[-11,-29],[-11,-29],[-11,-29],[-11,-29],[-11,-29]]"/>
+          </frame>
+        </mc>
+      </frame>
+    </mc>
+    <mc index="6" id="item4" type="[object MovieClip]" x="317" y="84" totalFrames="1" framesInfo="null">
+      <frame id="1">
+        <mc index="0" id="bg" type="[object MovieClip]" x="2" y="7" totalFrames="4" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance266979" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,-8]]"/>
+          </frame>
+          <frame id="2">
+            <mc index="0" id="instance267146" type="[object MovieClip]" x="0" y="-6" totalFrames="1" framesInfo="[[0,-2]]"/>
+          </frame>
+          <frame id="3">
+            <mc index="0" id="instance267148" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,-8]]"/>
+          </frame>
+          <frame id="4">
+            <mc index="0" id="instance267150" type="[object MovieClip]" x="0" y="-6" totalFrames="1" framesInfo="[[0,-2]]"/>
+          </frame>
+        </mc>
+        <mc index="1" id="photo" type="[object MovieClip]" x="13" y="21" totalFrames="1" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance266981" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+          </frame>
+        </mc>
+        <mc index="2" id="nameText" type="[object TextField]" x="0" y="77" totalFrames="1" framesInfo="[]"/>
+        <mc index="3" id="cashText" type="[object TextField]" x="35" y="98" totalFrames="1" framesInfo="[]"/>
+        <mc index="4" id="numberText" type="[object TextField]" x="48" y="2" totalFrames="1" framesInfo="[]"/>
+        <mc index="5" id="cashIcon" type="[object MovieClip]" x="9" y="96" totalFrames="1" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance266982" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+          </frame>
+        </mc>
+        <mc index="6" id="super_star" type="[object MovieClip]" x="5" y="8" totalFrames="9" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance266983" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266984" type="[object MorphShape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266985" type="[object MovieClip]" x="8" y="9" totalFrames="5" framesInfo="[[-10,-15],[-10,-15],[-10,-15],[-10,-15],[-10,-14]]"/>
+          </frame>
+          <frame id="2">
+            <mc index="0" id="instance266983" type="[object Shape]" x="0" y="-1" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266984" type="[object MorphShape]" x="0" y="-1" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266985" type="[object MovieClip]" x="8" y="9" totalFrames="5" framesInfo="[[-11,-16],[-11,-16],[-11,-16],[-11,-16],[-11,-16]]"/>
+          </frame>
+          <frame id="3">
+            <mc index="0" id="instance266983" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266984" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266985" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-18],[-11,-18],[-11,-18],[-11,-18],[-11,-18]]"/>
+          </frame>
+          <frame id="4">
+            <mc index="0" id="instance266983" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266984" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266985" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-19],[-11,-19],[-11,-19],[-11,-19],[-11,-19]]"/>
+          </frame>
+          <frame id="5">
+            <mc index="0" id="instance266983" type="[object Shape]" x="2" y="-3" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266984" type="[object MorphShape]" x="2" y="-3" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266985" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-21],[-11,-21],[-11,-21],[-11,-21],[-11,-21]]"/>
+          </frame>
+          <frame id="6">
+            <mc index="0" id="instance266983" type="[object Shape]" x="1" y="-3" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266984" type="[object MorphShape]" x="1" y="-3" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266985" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-23],[-11,-23],[-11,-23],[-11,-23],[-11,-23]]"/>
+          </frame>
+          <frame id="7">
+            <mc index="0" id="instance266983" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266984" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266985" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-25],[-11,-25],[-11,-25],[-11,-25],[-11,-25]]"/>
+          </frame>
+          <frame id="8">
+            <mc index="0" id="instance266983" type="[object Shape]" x="0" y="-1" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266984" type="[object MorphShape]" x="0" y="-1" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266985" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-27],[-11,-27],[-11,-27],[-11,-27],[-11,-27]]"/>
+          </frame>
+          <frame id="9">
+            <mc index="0" id="instance266983" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266984" type="[object MorphShape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266985" type="[object MovieClip]" x="10" y="9" totalFrames="5" framesInfo="[[-11,-29],[-11,-29],[-11,-29],[-11,-29],[-11,-29]]"/>
+          </frame>
+        </mc>
+      </frame>
+    </mc>
+    <mc index="7" id="item5" type="[object MovieClip]" x="410" y="84" totalFrames="1" framesInfo="null">
+      <frame id="1">
+        <mc index="0" id="bg" type="[object MovieClip]" x="2" y="7" totalFrames="4" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance266987" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,-8]]"/>
+          </frame>
+          <frame id="2">
+            <mc index="0" id="instance267161" type="[object MovieClip]" x="0" y="-6" totalFrames="1" framesInfo="[[0,-2]]"/>
+          </frame>
+          <frame id="3">
+            <mc index="0" id="instance267163" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,-8]]"/>
+          </frame>
+          <frame id="4">
+            <mc index="0" id="instance267165" type="[object MovieClip]" x="0" y="-6" totalFrames="1" framesInfo="[[0,-2]]"/>
+          </frame>
+        </mc>
+        <mc index="1" id="photo" type="[object MovieClip]" x="13" y="21" totalFrames="1" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance266989" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+          </frame>
+        </mc>
+        <mc index="2" id="nameText" type="[object TextField]" x="0" y="77" totalFrames="1" framesInfo="[]"/>
+        <mc index="3" id="cashText" type="[object TextField]" x="35" y="98" totalFrames="1" framesInfo="[]"/>
+        <mc index="4" id="numberText" type="[object TextField]" x="48" y="2" totalFrames="1" framesInfo="[]"/>
+        <mc index="5" id="cashIcon" type="[object MovieClip]" x="9" y="96" totalFrames="1" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance266990" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+          </frame>
+        </mc>
+        <mc index="6" id="super_star" type="[object MovieClip]" x="5" y="8" totalFrames="9" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance266991" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266992" type="[object MorphShape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266993" type="[object MovieClip]" x="8" y="9" totalFrames="5" framesInfo="[[-10,-15],[-10,-15],[-10,-15],[-10,-15],[-10,-14]]"/>
+          </frame>
+          <frame id="2">
+            <mc index="0" id="instance266991" type="[object Shape]" x="0" y="-1" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266992" type="[object MorphShape]" x="0" y="-1" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266993" type="[object MovieClip]" x="8" y="9" totalFrames="5" framesInfo="[[-11,-16],[-11,-16],[-11,-16],[-11,-16],[-11,-16]]"/>
+          </frame>
+          <frame id="3">
+            <mc index="0" id="instance266991" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266992" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266993" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-18],[-11,-18],[-11,-18],[-11,-18],[-11,-18]]"/>
+          </frame>
+          <frame id="4">
+            <mc index="0" id="instance266991" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266992" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266993" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-19],[-11,-19],[-11,-19],[-11,-19],[-11,-19]]"/>
+          </frame>
+          <frame id="5">
+            <mc index="0" id="instance266991" type="[object Shape]" x="2" y="-3" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266992" type="[object MorphShape]" x="2" y="-3" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266993" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-21],[-11,-21],[-11,-21],[-11,-21],[-11,-21]]"/>
+          </frame>
+          <frame id="6">
+            <mc index="0" id="instance266991" type="[object Shape]" x="1" y="-3" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266992" type="[object MorphShape]" x="1" y="-3" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266993" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-23],[-11,-23],[-11,-23],[-11,-23],[-11,-23]]"/>
+          </frame>
+          <frame id="7">
+            <mc index="0" id="instance266991" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266992" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266993" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-25],[-11,-25],[-11,-25],[-11,-25],[-11,-25]]"/>
+          </frame>
+          <frame id="8">
+            <mc index="0" id="instance266991" type="[object Shape]" x="0" y="-1" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266992" type="[object MorphShape]" x="0" y="-1" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266993" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-27],[-11,-27],[-11,-27],[-11,-27],[-11,-27]]"/>
+          </frame>
+          <frame id="9">
+            <mc index="0" id="instance266991" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance266992" type="[object MorphShape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance266993" type="[object MovieClip]" x="10" y="9" totalFrames="5" framesInfo="[[-11,-29],[-11,-29],[-11,-29],[-11,-29],[-11,-29]]"/>
+          </frame>
+        </mc>
+      </frame>
+    </mc>
+    <mc index="8" id="item6" type="[object MovieClip]" x="504" y="84" totalFrames="1" framesInfo="null">
+      <frame id="1">
+        <mc index="0" id="bg" type="[object MovieClip]" x="2" y="7" totalFrames="4" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance266995" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,-8]]"/>
+          </frame>
+          <frame id="2">
+            <mc index="0" id="instance267176" type="[object MovieClip]" x="0" y="-6" totalFrames="1" framesInfo="[[0,-2]]"/>
+          </frame>
+          <frame id="3">
+            <mc index="0" id="instance267178" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,-8]]"/>
+          </frame>
+          <frame id="4">
+            <mc index="0" id="instance267180" type="[object MovieClip]" x="0" y="-6" totalFrames="1" framesInfo="[[0,-2]]"/>
+          </frame>
+        </mc>
+        <mc index="1" id="photo" type="[object MovieClip]" x="13" y="21" totalFrames="1" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance266997" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+          </frame>
+        </mc>
+        <mc index="2" id="nameText" type="[object TextField]" x="0" y="77" totalFrames="1" framesInfo="[]"/>
+        <mc index="3" id="cashText" type="[object TextField]" x="35" y="98" totalFrames="1" framesInfo="[]"/>
+        <mc index="4" id="numberText" type="[object TextField]" x="48" y="2" totalFrames="1" framesInfo="[]"/>
+        <mc index="5" id="cashIcon" type="[object MovieClip]" x="9" y="96" totalFrames="1" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance266998" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+          </frame>
+        </mc>
+        <mc index="6" id="super_star" type="[object MovieClip]" x="5" y="8" totalFrames="9" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance266999" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267000" type="[object MorphShape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267001" type="[object MovieClip]" x="8" y="9" totalFrames="5" framesInfo="[[-10,-15],[-10,-15],[-10,-15],[-10,-15],[-10,-14]]"/>
+          </frame>
+          <frame id="2">
+            <mc index="0" id="instance266999" type="[object Shape]" x="0" y="-1" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267000" type="[object MorphShape]" x="0" y="-1" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267001" type="[object MovieClip]" x="8" y="9" totalFrames="5" framesInfo="[[-11,-16],[-11,-16],[-11,-16],[-11,-16],[-11,-16]]"/>
+          </frame>
+          <frame id="3">
+            <mc index="0" id="instance266999" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267000" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267001" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-18],[-11,-18],[-11,-18],[-11,-18],[-11,-18]]"/>
+          </frame>
+          <frame id="4">
+            <mc index="0" id="instance266999" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267000" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267001" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-19],[-11,-19],[-11,-19],[-11,-19],[-11,-19]]"/>
+          </frame>
+          <frame id="5">
+            <mc index="0" id="instance266999" type="[object Shape]" x="2" y="-3" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267000" type="[object MorphShape]" x="2" y="-3" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267001" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-21],[-11,-21],[-11,-21],[-11,-21],[-11,-21]]"/>
+          </frame>
+          <frame id="6">
+            <mc index="0" id="instance266999" type="[object Shape]" x="1" y="-3" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267000" type="[object MorphShape]" x="1" y="-3" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267001" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-23],[-11,-23],[-11,-23],[-11,-23],[-11,-23]]"/>
+          </frame>
+          <frame id="7">
+            <mc index="0" id="instance266999" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267000" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267001" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-25],[-11,-25],[-11,-25],[-11,-25],[-11,-25]]"/>
+          </frame>
+          <frame id="8">
+            <mc index="0" id="instance266999" type="[object Shape]" x="0" y="-1" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267000" type="[object MorphShape]" x="0" y="-1" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267001" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-27],[-11,-27],[-11,-27],[-11,-27],[-11,-27]]"/>
+          </frame>
+          <frame id="9">
+            <mc index="0" id="instance266999" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267000" type="[object MorphShape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267001" type="[object MovieClip]" x="10" y="9" totalFrames="5" framesInfo="[[-11,-29],[-11,-29],[-11,-29],[-11,-29],[-11,-29]]"/>
+          </frame>
+        </mc>
+      </frame>
+    </mc>
+    <mc index="9" id="item7" type="[object MovieClip]" x="35" y="206" totalFrames="1" framesInfo="null">
+      <frame id="1">
+        <mc index="0" id="bg" type="[object MovieClip]" x="2" y="7" totalFrames="4" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance267003" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,-8]]"/>
+          </frame>
+          <frame id="2">
+            <mc index="0" id="instance267191" type="[object MovieClip]" x="0" y="-6" totalFrames="1" framesInfo="[[0,-2]]"/>
+          </frame>
+          <frame id="3">
+            <mc index="0" id="instance267193" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,-8]]"/>
+          </frame>
+          <frame id="4">
+            <mc index="0" id="instance267195" type="[object MovieClip]" x="0" y="-6" totalFrames="1" framesInfo="[[0,-2]]"/>
+          </frame>
+        </mc>
+        <mc index="1" id="photo" type="[object MovieClip]" x="13" y="21" totalFrames="1" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance267005" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+          </frame>
+        </mc>
+        <mc index="2" id="nameText" type="[object TextField]" x="0" y="77" totalFrames="1" framesInfo="[]"/>
+        <mc index="3" id="cashText" type="[object TextField]" x="35" y="98" totalFrames="1" framesInfo="[]"/>
+        <mc index="4" id="numberText" type="[object TextField]" x="48" y="2" totalFrames="1" framesInfo="[]"/>
+        <mc index="5" id="cashIcon" type="[object MovieClip]" x="9" y="96" totalFrames="1" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance267006" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+          </frame>
+        </mc>
+        <mc index="6" id="super_star" type="[object MovieClip]" x="5" y="8" totalFrames="9" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance267007" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267008" type="[object MorphShape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267009" type="[object MovieClip]" x="8" y="9" totalFrames="5" framesInfo="[[-10,-15],[-10,-15],[-10,-15],[-10,-15],[-10,-14]]"/>
+          </frame>
+          <frame id="2">
+            <mc index="0" id="instance267007" type="[object Shape]" x="0" y="-1" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267008" type="[object MorphShape]" x="0" y="-1" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267009" type="[object MovieClip]" x="8" y="9" totalFrames="5" framesInfo="[[-11,-16],[-11,-16],[-11,-16],[-11,-16],[-11,-16]]"/>
+          </frame>
+          <frame id="3">
+            <mc index="0" id="instance267007" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267008" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267009" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-18],[-11,-18],[-11,-18],[-11,-18],[-11,-18]]"/>
+          </frame>
+          <frame id="4">
+            <mc index="0" id="instance267007" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267008" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267009" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-19],[-11,-19],[-11,-19],[-11,-19],[-11,-19]]"/>
+          </frame>
+          <frame id="5">
+            <mc index="0" id="instance267007" type="[object Shape]" x="2" y="-3" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267008" type="[object MorphShape]" x="2" y="-3" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267009" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-21],[-11,-21],[-11,-21],[-11,-21],[-11,-21]]"/>
+          </frame>
+          <frame id="6">
+            <mc index="0" id="instance267007" type="[object Shape]" x="1" y="-3" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267008" type="[object MorphShape]" x="1" y="-3" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267009" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-23],[-11,-23],[-11,-23],[-11,-23],[-11,-23]]"/>
+          </frame>
+          <frame id="7">
+            <mc index="0" id="instance267007" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267008" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267009" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-25],[-11,-25],[-11,-25],[-11,-25],[-11,-25]]"/>
+          </frame>
+          <frame id="8">
+            <mc index="0" id="instance267007" type="[object Shape]" x="0" y="-1" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267008" type="[object MorphShape]" x="0" y="-1" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267009" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-27],[-11,-27],[-11,-27],[-11,-27],[-11,-27]]"/>
+          </frame>
+          <frame id="9">
+            <mc index="0" id="instance267007" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267008" type="[object MorphShape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267009" type="[object MovieClip]" x="10" y="9" totalFrames="5" framesInfo="[[-11,-29],[-11,-29],[-11,-29],[-11,-29],[-11,-29]]"/>
+          </frame>
+        </mc>
+      </frame>
+    </mc>
+    <mc index="10" id="item8" type="[object MovieClip]" x="129" y="206" totalFrames="1" framesInfo="null">
+      <frame id="1">
+        <mc index="0" id="bg" type="[object MovieClip]" x="2" y="7" totalFrames="4" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance267011" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,-8]]"/>
+          </frame>
+          <frame id="2">
+            <mc index="0" id="instance267206" type="[object MovieClip]" x="0" y="-6" totalFrames="1" framesInfo="[[0,-2]]"/>
+          </frame>
+          <frame id="3">
+            <mc index="0" id="instance267208" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,-8]]"/>
+          </frame>
+          <frame id="4">
+            <mc index="0" id="instance267210" type="[object MovieClip]" x="0" y="-6" totalFrames="1" framesInfo="[[0,-2]]"/>
+          </frame>
+        </mc>
+        <mc index="1" id="photo" type="[object MovieClip]" x="13" y="21" totalFrames="1" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance267013" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+          </frame>
+        </mc>
+        <mc index="2" id="nameText" type="[object TextField]" x="0" y="77" totalFrames="1" framesInfo="[]"/>
+        <mc index="3" id="cashText" type="[object TextField]" x="35" y="98" totalFrames="1" framesInfo="[]"/>
+        <mc index="4" id="numberText" type="[object TextField]" x="48" y="2" totalFrames="1" framesInfo="[]"/>
+        <mc index="5" id="cashIcon" type="[object MovieClip]" x="9" y="96" totalFrames="1" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance267014" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+          </frame>
+        </mc>
+        <mc index="6" id="super_star" type="[object MovieClip]" x="5" y="8" totalFrames="9" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance267015" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267016" type="[object MorphShape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267017" type="[object MovieClip]" x="8" y="9" totalFrames="5" framesInfo="[[-10,-15],[-10,-15],[-10,-15],[-10,-15],[-10,-14]]"/>
+          </frame>
+          <frame id="2">
+            <mc index="0" id="instance267015" type="[object Shape]" x="0" y="-1" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267016" type="[object MorphShape]" x="0" y="-1" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267017" type="[object MovieClip]" x="8" y="9" totalFrames="5" framesInfo="[[-11,-16],[-11,-16],[-11,-16],[-11,-16],[-11,-16]]"/>
+          </frame>
+          <frame id="3">
+            <mc index="0" id="instance267015" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267016" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267017" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-18],[-11,-18],[-11,-18],[-11,-18],[-11,-18]]"/>
+          </frame>
+          <frame id="4">
+            <mc index="0" id="instance267015" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267016" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267017" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-19],[-11,-19],[-11,-19],[-11,-19],[-11,-19]]"/>
+          </frame>
+          <frame id="5">
+            <mc index="0" id="instance267015" type="[object Shape]" x="2" y="-3" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267016" type="[object MorphShape]" x="2" y="-3" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267017" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-21],[-11,-21],[-11,-21],[-11,-21],[-11,-21]]"/>
+          </frame>
+          <frame id="6">
+            <mc index="0" id="instance267015" type="[object Shape]" x="1" y="-3" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267016" type="[object MorphShape]" x="1" y="-3" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267017" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-23],[-11,-23],[-11,-23],[-11,-23],[-11,-23]]"/>
+          </frame>
+          <frame id="7">
+            <mc index="0" id="instance267015" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267016" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267017" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-25],[-11,-25],[-11,-25],[-11,-25],[-11,-25]]"/>
+          </frame>
+          <frame id="8">
+            <mc index="0" id="instance267015" type="[object Shape]" x="0" y="-1" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267016" type="[object MorphShape]" x="0" y="-1" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267017" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-27],[-11,-27],[-11,-27],[-11,-27],[-11,-27]]"/>
+          </frame>
+          <frame id="9">
+            <mc index="0" id="instance267015" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267016" type="[object MorphShape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267017" type="[object MovieClip]" x="10" y="9" totalFrames="5" framesInfo="[[-11,-29],[-11,-29],[-11,-29],[-11,-29],[-11,-29]]"/>
+          </frame>
+        </mc>
+      </frame>
+    </mc>
+    <mc index="11" id="item9" type="[object MovieClip]" x="223" y="206" totalFrames="1" framesInfo="null">
+      <frame id="1">
+        <mc index="0" id="bg" type="[object MovieClip]" x="2" y="7" totalFrames="4" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance267019" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,-8]]"/>
+          </frame>
+          <frame id="2">
+            <mc index="0" id="instance267221" type="[object MovieClip]" x="0" y="-6" totalFrames="1" framesInfo="[[0,-2]]"/>
+          </frame>
+          <frame id="3">
+            <mc index="0" id="instance267223" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,-8]]"/>
+          </frame>
+          <frame id="4">
+            <mc index="0" id="instance267225" type="[object MovieClip]" x="0" y="-6" totalFrames="1" framesInfo="[[0,-2]]"/>
+          </frame>
+        </mc>
+        <mc index="1" id="photo" type="[object MovieClip]" x="13" y="21" totalFrames="1" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance267021" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+          </frame>
+        </mc>
+        <mc index="2" id="nameText" type="[object TextField]" x="0" y="77" totalFrames="1" framesInfo="[]"/>
+        <mc index="3" id="cashText" type="[object TextField]" x="35" y="98" totalFrames="1" framesInfo="[]"/>
+        <mc index="4" id="numberText" type="[object TextField]" x="48" y="2" totalFrames="1" framesInfo="[]"/>
+        <mc index="5" id="cashIcon" type="[object MovieClip]" x="9" y="96" totalFrames="1" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance267022" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+          </frame>
+        </mc>
+        <mc index="6" id="super_star" type="[object MovieClip]" x="5" y="8" totalFrames="9" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance267023" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267024" type="[object MorphShape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267025" type="[object MovieClip]" x="8" y="9" totalFrames="5" framesInfo="[[-10,-15],[-10,-15],[-10,-15],[-10,-15],[-10,-14]]"/>
+          </frame>
+          <frame id="2">
+            <mc index="0" id="instance267023" type="[object Shape]" x="0" y="-1" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267024" type="[object MorphShape]" x="0" y="-1" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267025" type="[object MovieClip]" x="8" y="9" totalFrames="5" framesInfo="[[-11,-16],[-11,-16],[-11,-16],[-11,-16],[-11,-16]]"/>
+          </frame>
+          <frame id="3">
+            <mc index="0" id="instance267023" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267024" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267025" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-18],[-11,-18],[-11,-18],[-11,-18],[-11,-18]]"/>
+          </frame>
+          <frame id="4">
+            <mc index="0" id="instance267023" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267024" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267025" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-19],[-11,-19],[-11,-19],[-11,-19],[-11,-19]]"/>
+          </frame>
+          <frame id="5">
+            <mc index="0" id="instance267023" type="[object Shape]" x="2" y="-3" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267024" type="[object MorphShape]" x="2" y="-3" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267025" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-21],[-11,-21],[-11,-21],[-11,-21],[-11,-21]]"/>
+          </frame>
+          <frame id="6">
+            <mc index="0" id="instance267023" type="[object Shape]" x="1" y="-3" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267024" type="[object MorphShape]" x="1" y="-3" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267025" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-23],[-11,-23],[-11,-23],[-11,-23],[-11,-23]]"/>
+          </frame>
+          <frame id="7">
+            <mc index="0" id="instance267023" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267024" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267025" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-25],[-11,-25],[-11,-25],[-11,-25],[-11,-25]]"/>
+          </frame>
+          <frame id="8">
+            <mc index="0" id="instance267023" type="[object Shape]" x="0" y="-1" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267024" type="[object MorphShape]" x="0" y="-1" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267025" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-27],[-11,-27],[-11,-27],[-11,-27],[-11,-27]]"/>
+          </frame>
+          <frame id="9">
+            <mc index="0" id="instance267023" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267024" type="[object MorphShape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267025" type="[object MovieClip]" x="10" y="9" totalFrames="5" framesInfo="[[-11,-29],[-11,-29],[-11,-29],[-11,-29],[-11,-29]]"/>
+          </frame>
+        </mc>
+      </frame>
+    </mc>
+    <mc index="12" id="item10" type="[object MovieClip]" x="317" y="206" totalFrames="1" framesInfo="null">
+      <frame id="1">
+        <mc index="0" id="bg" type="[object MovieClip]" x="2" y="7" totalFrames="4" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance267027" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,-8]]"/>
+          </frame>
+          <frame id="2">
+            <mc index="0" id="instance267236" type="[object MovieClip]" x="0" y="-6" totalFrames="1" framesInfo="[[0,-2]]"/>
+          </frame>
+          <frame id="3">
+            <mc index="0" id="instance267238" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,-8]]"/>
+          </frame>
+          <frame id="4">
+            <mc index="0" id="instance267240" type="[object MovieClip]" x="0" y="-6" totalFrames="1" framesInfo="[[0,-2]]"/>
+          </frame>
+        </mc>
+        <mc index="1" id="photo" type="[object MovieClip]" x="13" y="21" totalFrames="1" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance267029" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+          </frame>
+        </mc>
+        <mc index="2" id="nameText" type="[object TextField]" x="0" y="77" totalFrames="1" framesInfo="[]"/>
+        <mc index="3" id="cashText" type="[object TextField]" x="35" y="98" totalFrames="1" framesInfo="[]"/>
+        <mc index="4" id="numberText" type="[object TextField]" x="48" y="2" totalFrames="1" framesInfo="[]"/>
+        <mc index="5" id="cashIcon" type="[object MovieClip]" x="9" y="96" totalFrames="1" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance267030" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+          </frame>
+        </mc>
+        <mc index="6" id="super_star" type="[object MovieClip]" x="5" y="8" totalFrames="9" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance267031" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267032" type="[object MorphShape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267033" type="[object MovieClip]" x="8" y="9" totalFrames="5" framesInfo="[[-10,-15],[-10,-15],[-10,-15],[-10,-15],[-10,-14]]"/>
+          </frame>
+          <frame id="2">
+            <mc index="0" id="instance267031" type="[object Shape]" x="0" y="-1" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267032" type="[object MorphShape]" x="0" y="-1" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267033" type="[object MovieClip]" x="8" y="9" totalFrames="5" framesInfo="[[-11,-16],[-11,-16],[-11,-16],[-11,-16],[-11,-16]]"/>
+          </frame>
+          <frame id="3">
+            <mc index="0" id="instance267031" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267032" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267033" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-18],[-11,-18],[-11,-18],[-11,-18],[-11,-18]]"/>
+          </frame>
+          <frame id="4">
+            <mc index="0" id="instance267031" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267032" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267033" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-19],[-11,-19],[-11,-19],[-11,-19],[-11,-19]]"/>
+          </frame>
+          <frame id="5">
+            <mc index="0" id="instance267031" type="[object Shape]" x="2" y="-3" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267032" type="[object MorphShape]" x="2" y="-3" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267033" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-21],[-11,-21],[-11,-21],[-11,-21],[-11,-21]]"/>
+          </frame>
+          <frame id="6">
+            <mc index="0" id="instance267031" type="[object Shape]" x="1" y="-3" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267032" type="[object MorphShape]" x="1" y="-3" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267033" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-23],[-11,-23],[-11,-23],[-11,-23],[-11,-23]]"/>
+          </frame>
+          <frame id="7">
+            <mc index="0" id="instance267031" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267032" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267033" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-25],[-11,-25],[-11,-25],[-11,-25],[-11,-25]]"/>
+          </frame>
+          <frame id="8">
+            <mc index="0" id="instance267031" type="[object Shape]" x="0" y="-1" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267032" type="[object MorphShape]" x="0" y="-1" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267033" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-27],[-11,-27],[-11,-27],[-11,-27],[-11,-27]]"/>
+          </frame>
+          <frame id="9">
+            <mc index="0" id="instance267031" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267032" type="[object MorphShape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267033" type="[object MovieClip]" x="10" y="9" totalFrames="5" framesInfo="[[-11,-29],[-11,-29],[-11,-29],[-11,-29],[-11,-29]]"/>
+          </frame>
+        </mc>
+      </frame>
+    </mc>
+    <mc index="13" id="item11" type="[object MovieClip]" x="410" y="206" totalFrames="1" framesInfo="null">
+      <frame id="1">
+        <mc index="0" id="bg" type="[object MovieClip]" x="2" y="7" totalFrames="4" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance267035" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,-8]]"/>
+          </frame>
+          <frame id="2">
+            <mc index="0" id="instance267251" type="[object MovieClip]" x="0" y="-6" totalFrames="1" framesInfo="[[0,-2]]"/>
+          </frame>
+          <frame id="3">
+            <mc index="0" id="instance267253" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,-8]]"/>
+          </frame>
+          <frame id="4">
+            <mc index="0" id="instance267255" type="[object MovieClip]" x="0" y="-6" totalFrames="1" framesInfo="[[0,-2]]"/>
+          </frame>
+        </mc>
+        <mc index="1" id="photo" type="[object MovieClip]" x="13" y="21" totalFrames="1" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance267037" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+          </frame>
+        </mc>
+        <mc index="2" id="nameText" type="[object TextField]" x="0" y="77" totalFrames="1" framesInfo="[]"/>
+        <mc index="3" id="cashText" type="[object TextField]" x="35" y="98" totalFrames="1" framesInfo="[]"/>
+        <mc index="4" id="numberText" type="[object TextField]" x="48" y="2" totalFrames="1" framesInfo="[]"/>
+        <mc index="5" id="cashIcon" type="[object MovieClip]" x="9" y="96" totalFrames="1" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance267038" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+          </frame>
+        </mc>
+        <mc index="6" id="super_star" type="[object MovieClip]" x="5" y="8" totalFrames="9" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance267039" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267040" type="[object MorphShape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267041" type="[object MovieClip]" x="8" y="9" totalFrames="5" framesInfo="[[-10,-15],[-10,-15],[-10,-15],[-10,-15],[-10,-14]]"/>
+          </frame>
+          <frame id="2">
+            <mc index="0" id="instance267039" type="[object Shape]" x="0" y="-1" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267040" type="[object MorphShape]" x="0" y="-1" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267041" type="[object MovieClip]" x="8" y="9" totalFrames="5" framesInfo="[[-11,-16],[-11,-16],[-11,-16],[-11,-16],[-11,-16]]"/>
+          </frame>
+          <frame id="3">
+            <mc index="0" id="instance267039" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267040" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267041" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-18],[-11,-18],[-11,-18],[-11,-18],[-11,-18]]"/>
+          </frame>
+          <frame id="4">
+            <mc index="0" id="instance267039" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267040" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267041" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-19],[-11,-19],[-11,-19],[-11,-19],[-11,-19]]"/>
+          </frame>
+          <frame id="5">
+            <mc index="0" id="instance267039" type="[object Shape]" x="2" y="-3" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267040" type="[object MorphShape]" x="2" y="-3" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267041" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-21],[-11,-21],[-11,-21],[-11,-21],[-11,-21]]"/>
+          </frame>
+          <frame id="6">
+            <mc index="0" id="instance267039" type="[object Shape]" x="1" y="-3" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267040" type="[object MorphShape]" x="1" y="-3" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267041" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-23],[-11,-23],[-11,-23],[-11,-23],[-11,-23]]"/>
+          </frame>
+          <frame id="7">
+            <mc index="0" id="instance267039" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267040" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267041" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-25],[-11,-25],[-11,-25],[-11,-25],[-11,-25]]"/>
+          </frame>
+          <frame id="8">
+            <mc index="0" id="instance267039" type="[object Shape]" x="0" y="-1" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267040" type="[object MorphShape]" x="0" y="-1" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267041" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-27],[-11,-27],[-11,-27],[-11,-27],[-11,-27]]"/>
+          </frame>
+          <frame id="9">
+            <mc index="0" id="instance267039" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267040" type="[object MorphShape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267041" type="[object MovieClip]" x="10" y="9" totalFrames="5" framesInfo="[[-11,-29],[-11,-29],[-11,-29],[-11,-29],[-11,-29]]"/>
+          </frame>
+        </mc>
+      </frame>
+    </mc>
+    <mc index="14" id="item12" type="[object MovieClip]" x="504" y="206" totalFrames="1" framesInfo="null">
+      <frame id="1">
+        <mc index="0" id="bg" type="[object MovieClip]" x="2" y="7" totalFrames="4" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance267043" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,-8]]"/>
+          </frame>
+          <frame id="2">
+            <mc index="0" id="instance267266" type="[object MovieClip]" x="0" y="-6" totalFrames="1" framesInfo="[[0,-2]]"/>
+          </frame>
+          <frame id="3">
+            <mc index="0" id="instance267268" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,-8]]"/>
+          </frame>
+          <frame id="4">
+            <mc index="0" id="instance267270" type="[object MovieClip]" x="0" y="-6" totalFrames="1" framesInfo="[[0,-2]]"/>
+          </frame>
+        </mc>
+        <mc index="1" id="photo" type="[object MovieClip]" x="13" y="21" totalFrames="1" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance267045" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+          </frame>
+        </mc>
+        <mc index="2" id="nameText" type="[object TextField]" x="0" y="77" totalFrames="1" framesInfo="[]"/>
+        <mc index="3" id="cashText" type="[object TextField]" x="35" y="98" totalFrames="1" framesInfo="[]"/>
+        <mc index="4" id="numberText" type="[object TextField]" x="48" y="2" totalFrames="1" framesInfo="[]"/>
+        <mc index="5" id="cashIcon" type="[object MovieClip]" x="9" y="96" totalFrames="1" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance267046" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+          </frame>
+        </mc>
+        <mc index="6" id="super_star" type="[object MovieClip]" x="5" y="8" totalFrames="9" framesInfo="null">
+          <frame id="1">
+            <mc index="0" id="instance267047" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267048" type="[object MorphShape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267049" type="[object MovieClip]" x="8" y="9" totalFrames="5" framesInfo="[[-10,-15],[-10,-15],[-10,-15],[-10,-15],[-10,-14]]"/>
+          </frame>
+          <frame id="2">
+            <mc index="0" id="instance267047" type="[object Shape]" x="0" y="-1" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267048" type="[object MorphShape]" x="0" y="-1" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267049" type="[object MovieClip]" x="8" y="9" totalFrames="5" framesInfo="[[-11,-16],[-11,-16],[-11,-16],[-11,-16],[-11,-16]]"/>
+          </frame>
+          <frame id="3">
+            <mc index="0" id="instance267047" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267048" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267049" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-18],[-11,-18],[-11,-18],[-11,-18],[-11,-18]]"/>
+          </frame>
+          <frame id="4">
+            <mc index="0" id="instance267047" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267048" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267049" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-19],[-11,-19],[-11,-19],[-11,-19],[-11,-19]]"/>
+          </frame>
+          <frame id="5">
+            <mc index="0" id="instance267047" type="[object Shape]" x="2" y="-3" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267048" type="[object MorphShape]" x="2" y="-3" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267049" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-21],[-11,-21],[-11,-21],[-11,-21],[-11,-21]]"/>
+          </frame>
+          <frame id="6">
+            <mc index="0" id="instance267047" type="[object Shape]" x="1" y="-3" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267048" type="[object MorphShape]" x="1" y="-3" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267049" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-23],[-11,-23],[-11,-23],[-11,-23],[-11,-23]]"/>
+          </frame>
+          <frame id="7">
+            <mc index="0" id="instance267047" type="[object Shape]" x="1" y="-2" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267048" type="[object MorphShape]" x="1" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267049" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-25],[-11,-25],[-11,-25],[-11,-25],[-11,-25]]"/>
+          </frame>
+          <frame id="8">
+            <mc index="0" id="instance267047" type="[object Shape]" x="0" y="-1" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267048" type="[object MorphShape]" x="0" y="-1" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267049" type="[object MovieClip]" x="9" y="9" totalFrames="5" framesInfo="[[-11,-27],[-11,-27],[-11,-27],[-11,-27],[-11,-27]]"/>
+          </frame>
+          <frame id="9">
+            <mc index="0" id="instance267047" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[-1,-1]]"/>
+            <mc index="1" id="instance267048" type="[object MorphShape]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+            <mc index="2" id="instance267049" type="[object MovieClip]" x="10" y="9" totalFrames="5" framesInfo="[[-11,-29],[-11,-29],[-11,-29],[-11,-29],[-11,-29]]"/>
+          </frame>
+        </mc>
+      </frame>
+    </mc>
+    <mc index="15" id="QQ_openDiamond" type="[object MovieClip]" x="244" y="365" totalFrames="4" framesInfo="null">
+      <frame id="1">
+        <mc index="0" id="instance267051" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+      </frame>
+      <frame id="2">
+        <mc index="0" id="instance267051" type="[object MovieClip]" x="-6" y="-2" totalFrames="1" framesInfo="[[0,0]]"/>
+      </frame>
+      <frame id="3">
+        <mc index="0" id="instance267051" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+      </frame>
+      <frame id="4">
+        <mc index="0" id="instance267281" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+      </frame>
+    </mc>
+    <mc index="16" id="payBtn" type="[object MovieClip]" x="40" y="363" totalFrames="4" framesInfo="null">
+      <frame id="1">
+        <mc index="0" id="instance267054" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[1,-1]]"/>
+      </frame>
+      <frame id="2">
+        <mc index="0" id="instance267054" type="[object MovieClip]" x="-4" y="-2" totalFrames="1" framesInfo="[[1,-1]]"/>
+      </frame>
+      <frame id="3">
+        <mc index="0" id="instance267054" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[1,-1]]"/>
+      </frame>
+      <frame id="4">
+        <mc index="0" id="instance267284" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[-3,-2]]"/>
+      </frame>
+    </mc>
+    <mc index="17" id="shop_leftBtn" type="[object MovieClip]" x="3" y="173" totalFrames="4" framesInfo="null">
+      <frame id="1">
+        <mc index="0" id="instance267059" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[-1,-2]]"/>
+      </frame>
+      <frame id="2">
+        <mc index="0" id="instance267059" type="[object MovieClip]" x="-1" y="-2" totalFrames="1" framesInfo="[[-2,-2]]"/>
+      </frame>
+      <frame id="3">
+        <mc index="0" id="instance267059" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[-1,-2]]"/>
+      </frame>
+      <frame id="4"/>
+    </mc>
+    <mc index="18" id="shop_rightBtn" type="[object MovieClip]" x="595" y="172" totalFrames="4" framesInfo="null">
+      <frame id="1">
+        <mc index="0" id="instance267061" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,-2]]"/>
+      </frame>
+      <frame id="2">
+        <mc index="0" id="instance267061" type="[object MovieClip]" x="-1" y="-2" totalFrames="1" framesInfo="[[0,-2]]"/>
+      </frame>
+      <frame id="3">
+        <mc index="0" id="instance267061" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,-2]]"/>
+      </frame>
+      <frame id="4"/>
+    </mc>
+    <mc index="19" id="pageText_2" type="[object TextField]" x="494" y="358" totalFrames="1" framesInfo="[]"/>
+    <mc index="20" id="shop_ArmorPart_btn" type="[object MovieClip]" x="355" y="40" totalFrames="4" framesInfo="null">
+      <frame id="1">
+        <mc index="0" id="instance267063" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[-2,-15]]"/>
+      </frame>
+      <frame id="2">
+        <mc index="0" id="instance267063" type="[object MovieClip]" x="0" y="-2" totalFrames="1" framesInfo="[[-2,-15]]"/>
+      </frame>
+      <frame id="3">
+        <mc index="0" id="instance267289" type="[object MovieClip]" x="0" y="-10" totalFrames="1" framesInfo="[[-2,-5]]"/>
+      </frame>
+      <frame id="4">
+        <mc index="0" id="instance267289" type="[object MovieClip]" x="0" y="-12" totalFrames="1" framesInfo="[[-2,-5]]"/>
+      </frame>
+    </mc>
+    <mc index="21" id="shop_Armor_btn" type="[object MovieClip]" x="276" y="40" totalFrames="4" framesInfo="null">
+      <frame id="1">
+        <mc index="0" id="instance267068" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[-2,-15]]"/>
+      </frame>
+      <frame id="2">
+        <mc index="0" id="instance267068" type="[object MovieClip]" x="0" y="-2" totalFrames="1" framesInfo="[[-2,-15]]"/>
+      </frame>
+      <frame id="3">
+        <mc index="0" id="instance267294" type="[object MovieClip]" x="0" y="-10" totalFrames="1" framesInfo="[[-2,-5]]"/>
+      </frame>
+      <frame id="4">
+        <mc index="0" id="instance267294" type="[object MovieClip]" x="0" y="-12" totalFrames="1" framesInfo="[[-2,-5]]"/>
+      </frame>
+    </mc>
+    <mc index="22" id="shop_Weapon_btn" type="[object MovieClip]" x="118" y="40" totalFrames="4" framesInfo="null">
+      <frame id="1">
+        <mc index="0" id="instance267073" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[-2,-15]]"/>
+      </frame>
+      <frame id="2">
+        <mc index="0" id="instance267073" type="[object MovieClip]" x="0" y="-2" totalFrames="1" framesInfo="[[-2,-15]]"/>
+      </frame>
+      <frame id="3">
+        <mc index="0" id="instance267299" type="[object MovieClip]" x="0" y="-10" totalFrames="1" framesInfo="[[-2,-5]]"/>
+      </frame>
+      <frame id="4">
+        <mc index="0" id="instance267299" type="[object MovieClip]" x="0" y="-12" totalFrames="1" framesInfo="[[-2,-5]]"/>
+      </frame>
+    </mc>
+    <mc index="23" id="shop_Normal_btn" type="[object MovieClip]" x="39" y="40" totalFrames="4" framesInfo="null">
+      <frame id="1">
+        <mc index="0" id="instance267078" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[-2,-15]]"/>
+      </frame>
+      <frame id="2">
+        <mc index="0" id="instance267078" type="[object MovieClip]" x="0" y="-2" totalFrames="1" framesInfo="[[-2,-15]]"/>
+      </frame>
+      <frame id="3">
+        <mc index="0" id="instance267304" type="[object MovieClip]" x="0" y="-8" totalFrames="1" framesInfo="[[-2,-7]]"/>
+      </frame>
+      <frame id="4">
+        <mc index="0" id="instance267304" type="[object MovieClip]" x="0" y="-10" totalFrames="1" framesInfo="[[-2,-7]]"/>
+      </frame>
+    </mc>
+    <mc index="24" id="shop_WeaponPart_btn" type="[object MovieClip]" x="197" y="40" totalFrames="4" framesInfo="null">
+      <frame id="1">
+        <mc index="0" id="instance267083" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[-2,-15]]"/>
+      </frame>
+      <frame id="2">
+        <mc index="0" id="instance267083" type="[object MovieClip]" x="0" y="-2" totalFrames="1" framesInfo="[[-2,-15]]"/>
+      </frame>
+      <frame id="3">
+        <mc index="0" id="instance267309" type="[object MovieClip]" x="0" y="-10" totalFrames="1" framesInfo="[[-2,-5]]"/>
+      </frame>
+      <frame id="4">
+        <mc index="0" id="instance267309" type="[object MovieClip]" x="0" y="-12" totalFrames="1" framesInfo="[[-2,-5]]"/>
+      </frame>
+    </mc>
+    <mc index="25" id="shop_SkillCard_btn" type="[object MovieClip]" x="513" y="40" totalFrames="4" framesInfo="null">
+      <frame id="1">
+        <mc index="0" id="instance267088" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[-2,-15]]"/>
+      </frame>
+      <frame id="2">
+        <mc index="0" id="instance267088" type="[object MovieClip]" x="0" y="-2" totalFrames="1" framesInfo="[[-2,-15]]"/>
+      </frame>
+      <frame id="3">
+        <mc index="0" id="instance267314" type="[object MovieClip]" x="0" y="-10" totalFrames="1" framesInfo="[[-2,-5]]"/>
+      </frame>
+      <frame id="4">
+        <mc index="0" id="instance267314" type="[object MovieClip]" x="0" y="-12" totalFrames="1" framesInfo="[[-2,-5]]"/>
+      </frame>
+    </mc>
+    <mc index="26" id="shop_TroopCard_btn" type="[object MovieClip]" x="434" y="40" totalFrames="4" framesInfo="null">
+      <frame id="1">
+        <mc index="0" id="instance267093" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[-2,-15]]"/>
+      </frame>
+      <frame id="2">
+        <mc index="0" id="instance267093" type="[object MovieClip]" x="0" y="-2" totalFrames="1" framesInfo="[[-2,-15]]"/>
+      </frame>
+      <frame id="3">
+        <mc index="0" id="instance267319" type="[object MovieClip]" x="0" y="-10" totalFrames="1" framesInfo="[[-2,-5]]"/>
+      </frame>
+      <frame id="4">
+        <mc index="0" id="instance267319" type="[object MovieClip]" x="0" y="-12" totalFrames="1" framesInfo="[[-2,-5]]"/>
+      </frame>
+    </mc>
+    <mc index="27" id="instance267098" type="[object StaticText]" x="262" y="-6" totalFrames="1" framesInfo="[[26,1]]"/>
+  </frame>
+</asset>

@@ -1,0 +1,20 @@
+<asset>
+  <frame id="1">
+    <mc index="0" id="instance266942" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[-7,12]]"/>
+    <mc index="1" id="tips_text" type="[object TextField]" x="33" y="59" totalFrames="1" framesInfo="[]"/>
+    <mc index="2" id="closeIcon" type="[object MovieClip]" x="264" y="0" totalFrames="4" framesInfo="null">
+      <frame id="1">
+        <mc index="0" id="instance266943" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+      </frame>
+      <frame id="2">
+        <mc index="0" id="instance266943" type="[object MovieClip]" x="-2" y="-1" totalFrames="1" framesInfo="[[0,0]]"/>
+      </frame>
+      <frame id="3">
+        <mc index="0" id="instance266943" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+      </frame>
+      <frame id="4">
+        <mc index="0" id="instance266945" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[0,0]]"/>
+      </frame>
+    </mc>
+  </frame>
+</asset>

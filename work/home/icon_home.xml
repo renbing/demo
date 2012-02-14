@@ -1,0 +1,16 @@
+<asset>
+  <frame>
+    <mc index="0" id="instance486" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="null">
+      <frame>
+        <mc index="0" id="instance487" type="[object MovieClip]" x="1" y="-4" totalFrames="9" framesInfo="[[-5,-7],[-5,-7],[-5,-7],[-5,-7],[-8,-10],[-8,-10],[-8,-10],[-8,-10],[-5,-7]]"/>
+        <mc index="1" id="instance490" type="[object MovieClip]" x="0" y="0" totalFrames="1" framesInfo="[[11,-2]]"/>
+        <mc index="2" id="instance492" type="[object Shape]" x="0" y="0" totalFrames="1" framesInfo="[[7,63]]"/>
+        <mc index="3" id="instance493" type="[object MovieClip]" x="0" y="-2" totalFrames="9" framesInfo="[[10,0],[10,0],[10,0],[10,0],[10,0],[10,0],[10,0],[10,0],[10,0]]"/>
+        <mc index="4" id="instance495" type="[object MovieClip]" x="0" y="3" totalFrames="7" framesInfo="[[0,0],[0,0],[0,0],[2,3],[2,3],[2,3],[0,0]]"/>
+        <mc index="5" id="instance497" type="[object MovieClip]" x="48" y="22" totalFrames="7" framesInfo="[[0,0],[0,0],[0,0],[3,4],[3,4],[3,4],[0,0]]"/>
+        <mc index="6" id="instance499" type="[object MovieClip]" x="14" y="38" totalFrames="7" framesInfo="[[0,0],[0,0],[0,0],[2,3],[2,3],[2,3],[0,0]]"/>
+        <mc index="7" id="instance501" type="[object MovieClip]" x="38" y="8" totalFrames="7" framesInfo="[[0,0],[0,0],[0,0],[1,2],[1,2],[1,2],[0,0]]"/>
+      </frame>
+    </mc>
+  </frame>
+</asset>
