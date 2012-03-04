@@ -1,5 +1,3 @@
-var canvas;
-
 function setMainLoop(func,interval)
 {
 	setInterval(func, interval);
@@ -7,7 +5,10 @@ function setMainLoop(func,interval)
 
 $(document).ready(function() {
 
-	canvas = $("#displaycanvas")[0];
+	window.canvas = $("#displaycanvas")[0];
+	window.trace = function(content) {
+		console.log(content);
+	}
 
 	var ctx = canvas.getContext("2d");
 	ctx.drawImageBatch = function(img, coords) {

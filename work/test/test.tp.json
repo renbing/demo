@@ -1,0 +1,23 @@
+{"frames": {
+
+"test/1/instance58_1_0.png":
+[2,334,1,1,0,0],
+"test/1/instance58_1_1.png":
+[2,327,581,5,0,0],
+"test/1/instance58_1_2.png":
+[2,287,579,38,1,0],
+"test/1/instance58_1_3.png":
+[11,2,7,283,0,0],
+"test/1/instance58_1_4.png":
+[2,2,7,283,0,0]
+},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "test.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:04632730f851ffac93d70533ce97c00c$"
+}
+}
