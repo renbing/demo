@@ -23,6 +23,7 @@ var Global = {
 	canvas : null,
 	ctx : null,
 	stage : null,
+	sock : null,
 	assets : {
 		// 库名,导出名字
 		"test" :	["test"],
@@ -748,6 +749,51 @@ function documentReady()
 
 function main()
 {
+	var sockRunning = false;
+	var sock = new Socket();
+	if( canvas.width == 960 )
+	{
+		// iphone as server
+		if( sock.init(5213) && sock.runAsServer(5214) )
+		{
+			sockRunning = true;
+		}
+	}
+	else
+	{
+		// other as client
+		if( sock.init(5214) && sock.runAsClient() )
+		{
+			sockRunning = true;
+		}
+	}
+
+	if( sockRunning )
+	{
+		sock.onmessage = function(msg){
+			if( !Global.stage )
+			{
+				return;
+			}
+
+			if( Global.stage.x < -550 && x < 0 )
+			{
+				return;
+			}
+			if(  Global.stage.x >0 && x > 0 )
+			{
+				return;
+			}
+
+			var x = +msg;
+
+			Global.stage.x += x;
+		};
+		Global.sock = sock;
+	}
+
+	trace("sockRunning:"+sockRunning);
+
 	var stage = Global.stage;
 
 	canvas.addEventListener("mousedown", mouseDownEvent, false);
@@ -896,6 +942,11 @@ function mouseMoveEvent(e)
 	//Global.stage.y += y;
 
 	lastMouseEvent = e;
+
+	if( Global.sock )
+	{
+		Global.sock.send(x);
+	}
 }
 
 function mouseUpEvent(e)

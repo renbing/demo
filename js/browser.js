@@ -3,6 +3,31 @@ function setMainLoop(func,interval)
 	setInterval(func, interval);
 }
 
+var Socket = function()
+{
+	this.onmessage = function(msg){};
+}
+
+Socket.prototype.send = function(msg)
+{
+	return false;
+}
+
+Socket.prototype.init = function(listenPort)
+{
+	return false;
+}
+
+Socket.prototype.runAsClient = function()
+{
+	return false;
+}
+
+Socket.prototype.runAsServer = function(broadcastPort)
+{
+	return false;
+}
+
 $(document).ready(function() {
 
 	window.canvas = $("#displaycanvas")[0];
